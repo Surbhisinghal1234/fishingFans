@@ -1,0 +1,92 @@
+@media screen and (min-width:320px) and (max-width:570px) {
+    /* .navbar-toggler {
+        padding: 0.25rem 0.25rem !important;
+        font-size: 7px !important;
+        background-color: white !important;
+        border-radius: 0.65rem !important;
+    } */
+    .fa-solid, .fas {
+        
+        font-size: 25px;
+        margin-top: 4px;
+    }
+
+    .fish_box {
+        margin-bottom: 2rem;
+    }
+
+    .fishing_fan_imgbox {
+        /* height: unset !important; */
+        width: unset !important;
+        object-fit: cover !important;
+    }
+
+    .fishing_fan_imgbox video {
+        border-radius: 10px !important;
+
+    }
+    .light_box_imgbox {
+        height: unset !important;
+    }
+
+    .border_line {
+        display: none !important;
+    }
+
+
+    .form_background {
+        width: unset !important;
+    }
+
+    .backk_img h2 {
+
+        width: unset !important;
+        height: unset !important;
+        padding: 10px 20px;
+    }
+
+    .terms_content {
+        width: unset !important;
+    }
+
+    .official_sec .col-lg-4 {
+        width: unset !important;
+    }
+
+    .river {
+        height: unset !important;
+        width: unset !important;
+        border-radius: 10px !important;
+        padding-bottom: 15px;
+    }
+
+    .one h3 {
+        margin: 1rem auto;
+    }
+    .bottom_details{
+        text-align: center;
+    }
+    .footer{
+        text-align: center;
+    }
+    /* .......................... */
+    .collecton_sec_imgbox{
+        /* height: unset !important; */
+        width: unset !important;
+    }
+    .collecton_sec_imgbox a img{
+        border-radius: 10px !important;
+
+    }
+
+    .official_collection_sec .col-lg-4{
+        width: unset !important;
+    }
+    
+.black_sea_bass_white_box{
+    border-radius: 10px !important;
+}
+.official_collection_sec{
+    padding-bottom: 1.5rem !important;
+}
+}
