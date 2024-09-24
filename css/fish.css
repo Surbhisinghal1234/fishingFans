@@ -5,8 +5,8 @@
 }
 .container-main {
     max-width: 1600px;
-    width: 100%; /* Ensure full width for smaller screens */
-    margin: 0 auto; /* Center align on larger screens */
+    width: 100%; 
+    margin: 0 auto; 
    
 }
 .nav_imgbox{
