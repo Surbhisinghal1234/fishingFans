@@ -3,6 +3,12 @@
     margin: 0;
     box-sizing: border-box;
 }
+.container-main {
+    max-width: 1600px;
+    width: 100%; /* Ensure full width for smaller screens */
+    margin: 0 auto; /* Center align on larger screens */
+   
+}
 .nav_imgbox{
     height: 50px;
     width: 60px;
